@@ -34,6 +34,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "dedek-akebi-chan-47"
-          entrypoint: "main.ts"
+          project: "dedek-akebi-chan-62"
+          entrypoint: "index.js"
           root: "."
